@@ -3,7 +3,8 @@
 ## 📌 Internship Details:
 - **Program:** Java Programming Internship  
 - **Duration:** 3 Months  
-- **Organization:** Code Alpha  
+- **Organization:** Code Alpha
+- **OFFER LETTER ID:** CA/JU3/5199
 - **Intern:** *[MOHAMMAD AMIR SHOAIB]*  
 
 ## 📋 Project Description:
